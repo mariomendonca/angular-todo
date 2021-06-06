@@ -19,6 +19,7 @@
 
 .todo .content {
 	flex: 1 1 100%;
+	cursor: pointer;
 }
 
 .todo.done .content {
